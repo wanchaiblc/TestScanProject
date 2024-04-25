@@ -1,0 +1,16 @@
+D:\repo\MoveFiles\MoveFiles\obj\Debug\net8.0-windows\MoveFiles.Form1.resources
+D:\repo\MoveFiles\MoveFiles\obj\Debug\net8.0-windows\MoveFiles.csproj.GenerateResource.cache
+D:\repo\MoveFiles\MoveFiles\obj\Debug\net8.0-windows\MoveFiles.GeneratedMSBuildEditorConfig.editorconfig
+D:\repo\MoveFiles\MoveFiles\obj\Debug\net8.0-windows\MoveFiles.AssemblyInfoInputs.cache
+D:\repo\MoveFiles\MoveFiles\obj\Debug\net8.0-windows\MoveFiles.AssemblyInfo.cs
+D:\repo\MoveFiles\MoveFiles\obj\Debug\net8.0-windows\MoveFiles.csproj.CoreCompileInputs.cache
+D:\repo\MoveFiles\MoveFiles\bin\Debug\net8.0-windows\MoveFiles.exe
+D:\repo\MoveFiles\MoveFiles\bin\Debug\net8.0-windows\MoveFiles.deps.json
+D:\repo\MoveFiles\MoveFiles\bin\Debug\net8.0-windows\MoveFiles.runtimeconfig.json
+D:\repo\MoveFiles\MoveFiles\bin\Debug\net8.0-windows\MoveFiles.dll
+D:\repo\MoveFiles\MoveFiles\bin\Debug\net8.0-windows\MoveFiles.pdb
+D:\repo\MoveFiles\MoveFiles\obj\Debug\net8.0-windows\MoveFiles.dll
+D:\repo\MoveFiles\MoveFiles\obj\Debug\net8.0-windows\refint\MoveFiles.dll
+D:\repo\MoveFiles\MoveFiles\obj\Debug\net8.0-windows\MoveFiles.pdb
+D:\repo\MoveFiles\MoveFiles\obj\Debug\net8.0-windows\MoveFiles.genruntimeconfig.cache
+D:\repo\MoveFiles\MoveFiles\obj\Debug\net8.0-windows\ref\MoveFiles.dll
